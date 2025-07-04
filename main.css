@@ -52,11 +52,12 @@ body:after {
     width: 350px;
     height: 150px;
     z-index: 1;
-    background-image: url("https://uploads-ssl.webflow.com/5eca8e43c4dfff837f0f6392/5ecad58e650fb5ec53e8b811_roboflow_assets_logo_white.png");
+    background-image: url("https://png.pngtree.com/png-vector/20220630/ourmid/pngtree-robot-logo-vector-template-png-image_5579155.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: bottom right;
 }
+
 
 #fps {
     position: fixed;
